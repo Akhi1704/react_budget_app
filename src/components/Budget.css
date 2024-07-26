@@ -1,0 +1,24 @@
+/* Budget.css */
+
+.budget-container {
+    background-color: #f0f0f0; /* Light grey background */
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+.budget-section {
+    display: flex;
+    align-items: center;
+}
+
+.budget-box {
+    background-color: #f0f0f0; /* Light grey background */
+    padding: 1rem;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.budget-input {
+    margin-left: 1rem;
+}
