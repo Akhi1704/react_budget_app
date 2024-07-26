@@ -1,0 +1,20 @@
+.currency-dropdown-container {
+    background-color: lightgrey;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.currency-dropdown {
+    background-color: lightgreen;
+    color: black;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+.currency-dropdown:hover {
+    background-color: white;
+}
