@@ -1,0 +1,33 @@
+/* ExpenseItem.css */
+
+.btn-circle {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    text-align: center;
+    padding: 0;
+    font-size: 1.2rem;
+    line-height: 30px;
+    cursor: pointer;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.btn-circle.increase {
+    background-color: #4caf50; /* Light green color */
+}
+
+.btn-circle.decrease {
+    background-color: #f44336; /* Red color */
+}
+
+.btn-circle:hover {
+    opacity: 0.8;
+}
+
+.btn-circle span {
+    font-size: 1.5rem;
+}
